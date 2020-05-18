@@ -74,6 +74,19 @@ figcaption {
 /* LAYOUT */
 .wrapper {
   width: 960px;
-  margin: 0 auto;
+  margin: 0 auto; /*centralizing*/
   background: #eee;
 }
+
+.clo-1 {
+  
+}
+
+.clo-2 {
+  
+}
+
+.clo-3 {
+  
+}
+
