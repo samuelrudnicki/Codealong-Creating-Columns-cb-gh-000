@@ -76,6 +76,10 @@ img, video, audio {
 }
 
 /* LAYOUT */
+* {
+  box-sizing: border-box;
+}
+
 .wrapper {
   width: 1080px;
   margin: 0 auto; /*centralizing*/
